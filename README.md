@@ -38,6 +38,9 @@
 
 ### 📕 Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Learning OpenGL and SwiftUI](https://www.jasmeetbrar.com/posts/learning-opengl-and-swiftui)
+- [Reflecting on my life at UofT](https://www.jasmeetbrar.com/posts/uoft-five-years-reflection)
+- [First Blog Post](https://www.jasmeetbrar.com/posts/first-blog-post)
 <!-- BLOG-POST-LIST:END -->
 
 ---
