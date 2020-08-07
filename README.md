@@ -32,6 +32,14 @@
 <br />
 <br />
 
+---
+
+# 📕 Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
 [![Playjasb2's github stats](https://github-readme-stats.vercel.app/api?username=Playjasb2&show_icons=true&hide_border=true)](https://github.com/Playjasb2/github-readme-stats)
 
 [website]: https://www.jasmeetbrar.com
