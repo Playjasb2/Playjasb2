@@ -1,6 +1,7 @@
 ### Hi there, I'm Jasmeet 👋
 
 ## I'm a recent grad looking for opportunities!
+
 - 🔭 I’m currently working on a [Simple-C Compiler](website)
 - 🌱 I’m currently learning about OpenGL and SwiftUI 😃
 - 🥅 2020 Goals: Work on more projects and learn anything new or interesting
@@ -39,7 +40,9 @@
 ---
 
 ### 📕 Blog Posts
+
 <!-- BLOG-POST-LIST:START -->
+
 - [Learning OpenGL and SwiftUI](https://www.jasmeetbrar.com/posts/learning-opengl-and-swiftui)
 - [Reflecting on my life at UofT](https://www.jasmeetbrar.com/posts/uoft-five-years-reflection)
 - [First Blog Post](https://www.jasmeetbrar.com/posts/first-blog-post)
@@ -47,7 +50,7 @@
 
 ---
 
-[![Playjasb2's github stats](https://github-readme-stats.vercel.app/api?username=Playjasb2&show_icons=true&hide_border=true)](https://github.com/Playjasb2/github-readme-stats)
+[![Playjasb2's github stats](https://github-readme-stats.vercel.app/api?username=Playjasb2&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: https://www.jasmeetbrar.com
 [linkedin]: https://linkedin.com/in/jasmeetbrar
