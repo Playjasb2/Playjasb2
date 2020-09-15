@@ -2,7 +2,7 @@
 
 ## I'm a recent grad looking for opportunities!
 
-- 🔭 I’m currently working on a [Simple-C Compiler](compiler)
+- 🔭 I’m currently working on a [Simple-C Compiler][compiler]
 - 🌱 I’m currently learning about OpenGL and SwiftUI 😃
 - 🥅 2020 Goals: Work on more projects and learn anything new or interesting
 - ⚡ Fun fact: I'm mainly a web developer who is also into systems programming
