@@ -42,6 +42,7 @@
 ### 📕 Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Simple C Compiler - Syntax Analysis](https://www.jasmeetbrar.com/posts/simple-c-compiler-syntax-analysis)
 - [UofT Course Graph](https://www.jasmeetbrar.com/posts/uoft-course-graph)
 - [Learning OpenGL and SwiftUI](https://www.jasmeetbrar.com/posts/learning-opengl-and-swiftui)
 - [Reflecting on my life at UofT](https://www.jasmeetbrar.com/posts/uoft-five-years-reflection)
