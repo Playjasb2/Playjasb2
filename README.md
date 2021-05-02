@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on a [Simple-C Compiler][compiler]
 - 🌱 I’m currently learning about Spring Boot and SwiftUI 😃
 - 🥅 2021 Goals: Strengthen my current skills and explore new opportunities
-- ⚡ Fun fact: Creating software
+- ⚡ Fun fact: Seeing how my code would all fit together to construct some piece of software is what led me into computer science to begin with. Seeing how the computer would understand the instructions I provide fascinated me to the point that I would want to harness this potential of making lives easier through automation.
 
 ### Connect with me:
 
