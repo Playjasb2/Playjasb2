@@ -1,11 +1,11 @@
 ### Hi there, I'm Jasmeet 👋
 
-## I'm a recent grad looking for opportunities!
+## I'm a software developer eager to explore new opportunities!
 
 - 🔭 I’m currently working on a [Simple-C Compiler][compiler]
-- 🌱 I’m currently learning about OpenGL and SwiftUI 😃
-- 🥅 2020 Goals: Work on more projects and learn anything new or interesting
-- ⚡ Fun fact: I'm mainly a web developer who is also into systems programming
+- 🌱 I’m currently learning about Spring Boot and SwiftUI 😃
+- 🥅 2021 Goals: Strengthen my current skills and explore new opportunities
+- ⚡ Fun fact: Creating software
 
 ### Connect with me:
 
@@ -17,7 +17,7 @@
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="XCode" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Xcode_Icon.png" />
+<img align="left" alt="XCode" width="26px" src="https://upload.wikimedia.org/wikipedia/en/0/0c/Xcode_icon.png" />
 <img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />
 <img align="left" alt="Java" width="26px" height="25px" src="https://raw.githubusercontent.com/Playjasb2/Portfolio-Website/master/static/tech/java.svg" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -43,6 +43,7 @@
 ### 📕 Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Simple C Compiler - Syntax Analysis](https://www.jasmeetbrar.com/posts/simple-c-compiler-syntax-analysis)
 - [UofT Course Graph](https://www.jasmeetbrar.com/posts/uoft-course-graph)
 - [Learning OpenGL and SwiftUI](https://www.jasmeetbrar.com/posts/learning-opengl-and-swiftui)
